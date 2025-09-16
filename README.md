@@ -34,7 +34,7 @@ I'm a computer science student at Carnegie Mellon University. I'm mainly a part 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" height="45" />
 </p>
 
-Checkout <a href="https://www.linkedin.com/in/laasyaaki" target="_blank">my linkedin</a>!
+Checkout <a href="https://www.linkedin.com/in/laasyaaki" target="_blank">my linkedin</a> and <a href="https://laasyaaki.github.io/">https://laasyaaki.github.io/</a>!
 
 
 
