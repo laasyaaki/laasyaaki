@@ -2,7 +2,7 @@
 
 ## Hi i'm Laasya!
 
-I'm a computer science student at Carnegie Mellon University. I'm mainly a part of an AI and cybersecurity research project and a software development club, but I'm also involved in improving the CMU student dining expirience, cultural orgs, and more.
+I'm a computer science student at Carnegie Mellon University. I'm mainly a part of an AI and cybersecurity research project and a software development club, but I'm also involved in improving the CMU student dining experience, cultural orgs, and more.
 
 ### Some tools and languages I've used:
 
