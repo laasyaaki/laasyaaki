@@ -36,6 +36,12 @@ I'm a computer science student at Carnegie Mellon University. I'm mainly a part 
 
 Checkout <a href="https://www.linkedin.com/in/laasyaaki" target="_blank">my linkedin!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 ![](https://komarev.com/ghpvc/?username=laasyaaki&color=brightgreen)
